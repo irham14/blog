@@ -12,7 +12,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-<body>
+<body background="/images/bg.jpg">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,7 +34,9 @@
   </div>
 </nav>
 
-<div class="container">
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    
     <center><h2>Jamur Tiram Dan Manfaatnya</h2></center> 
 
     <p>Selama ini banyak orang mengenal jamur tiram hanya sebagai makanan pelengkap atau jajanan ringan. Padahal, manfaat jamur tiram tidak sebatas itu. Jamur ini menyimpan banyak potensi untuk mendukung kesehatan tubuh.</p>
@@ -44,13 +46,13 @@
 <div class="container">
     <h4>Manfaat Jamur Tiram bagi Kesehatan</h4>
     <h5>1. Meningkatkan daya tahan tubuh</h5>
-    <img src="/images/1.jpg">
+    <img src="/images/1.jpg" width="300" height="250">
     <p>Sebuah penelitian yang dimuat dalam Journal of Traditional and Complementary Medicine menunjukkan bahwa jamur tiram berpotensi meningkatkan sistem kekebalan tubuh. Bahan aktif dalam jamur tiram dapat merangsang makrofrag untuk bekerja lebih aktif.</p>
 
     <p>Makrofag adalah salah satu bagian dari sel darah putih yang bertugas untuk melawan virus, bakteri, dan mikroorganisme lainnya.</p>
 
     <h5>2. Menurunkan kolesterol</h5>
-      <img src="/images/2.jpg">
+      <img src="/images/2.jpg" width="300" height="250">
     <p>Sebuah studi yang dipublikasikan dalam Clinical and Experimental Pharmacology and Physiology menemukan bahwa jamur tiram dapat membantu mengurangi jumlah kolesterol total dalam darah.</p>
     <p>Temuan ini juga didukung oleh penelitian lain yang menemukan bahwa konsumsi jamur tiram rutin selama 24 hari dapat menurunkan kolesterol dari penderita diabetes tanpa memberikan efek samping pada hati dan ginjal.</p>
     <p>Manfaat jamur tiram ini datang dari kandungan lovastatin yang membantu mengatur sirkulasi kadar kolesterol darah. Selain itu, kandungan beta-glucan, yakni salah satu bentuk serat larut air yang ditemukan tinggi pada jamur juga bisa memengaruhi kadar kolesterol. Beta-glucan berfungsi menyerap kolesterol di aliran darah.</p>
@@ -58,7 +60,7 @@
 
     <h5>3. Membantu mencegah kanker</h5>
 
-   <img src="/images/3.jpg">
+   <img src="/images/3.jpg" width="300" height="250">
 
     <p>Sebuah penelitian terbitan International Journal of Oncology tahun 2008, menunjukan bahwa suplemen ekstrak jamur yang satu ini dapat menekan pertumbuhan sel kanker payudara dan kanker usus besar. Suplemen yang sama juga dapat membantu mencegah penyebaran sel kanker ke bagian tubuh lainnya.</p>
     <p>Kandungan betaglukan dan glikoprotein yang ada dalam jamur tiram dapat meningkatkan respons antikanker tubuh secara alami.</p>
@@ -67,7 +69,7 @@
 
     <h5>4. Sumber vitamin B3</h5>
 
-   <img src="/images/4.jpg">
+   <img src="/images/4.jpg" width="300" height="250" >
 
     <p>Jamur tiram adalah sumber vitamin B3 yang baik bagi tubuh dan mudah ditemukan dalam berbagai jenis makanan. Vitamin yang punya nama lain niacin ini, memegang peranan penting untuk membantu proses pertumbuhan, perkembangan, serta kerja organ-organ di dalam tubuh. </p>
     <p>Vitamin B3 juga bertugas untuk membantu memecah karbohidrat, lemak, dan protein dari makanan Anda agar bisa digunakan sebagai energi. Selain itu, niacin juga berfungsi menjaga kesehatan jantung dan menurunkan kolesterol jahat.</p>
@@ -76,7 +78,7 @@
 
       <h5>5. Kaya antioksidan</h5>
 
-    <img src="/images/5.jpg">
+    <img src="/images/5.jpg" width="300" height="250">
 
     <p>Manfaat jamur tiram lainnya dalah sebagai sumber antioksidan. Antioksidan adalah senyawa yang bertugas untuk melawan beragam efek buruk yang ditimbulkan oleh radikal bebas. Sebenarnya, tubuh setiap orang sudah menghasilkan antioksidan sendiri. </p>
     <p>Hanya saja, jumlah yang dihasilkan oleh tubuh ini tidak terlalu banyak sehingga Anda masih membutuhkan asupan antioksidan dari makanan harian. Menariknya, jamur ini adalah salah satu sumber makanan yang mengandung tinggi ergothioneine, yakni zat antioksidan yang membantu mencegah terjadinya peradangan.</p>
@@ -85,20 +87,14 @@
 
 
 
-
-
-        </div>
-    </div>
-</div>
-
 <div class="container">
 <div class="cold-md-4 cold-sm-4">
   <center>
   <h5>kontak person</h5>
-  <a href="https://web.facebook.com/muh.ridhaalikadir" target="blank">
+  <a href="https://www.facebook.com/jamur.tiram.18488" target="blank">
     <img src="/images/fb.png" width="50" height="50">
   </a>
-   <a href="https://web.facebook.com/muh.ridhaalikadir" target="blank">
+   <a href="https://www.instagram.com/jamurtiramdsdn/" target="blank">
     <img src="/images/ig.png" width="50" height="50">
   </a>
 </center>
@@ -111,6 +107,9 @@
 </footer>
 
 
+        </div>
+    </div>
+</div>
 
 </body>
 </html>
